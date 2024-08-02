@@ -12,7 +12,7 @@ This project is a clone of the SoloLearn website's main page. It showcases vario
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://eidghannam.github.io./sololearn-page-cloning/).
 
 ## Features
 
