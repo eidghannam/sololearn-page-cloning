@@ -26,13 +26,13 @@ You can view a live demo of the project [here](https://eidghannam.github.io./sol
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/sololearn-clone.git
+    git clone https://github.com/eidghannam/sololearn-page-cloning.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd sololearn-clone
+    cd sololearn-page-cloning
     ```
 
 3. Open `index.html` in your browser to view the project.
